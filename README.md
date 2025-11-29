@@ -90,9 +90,13 @@ A Keras Sequential model:
 ## 📁 Project Structure
 
 AG-News-Classification/
+
 │── Ag_news_category_text_classification_task.ipynb
+
 │── Ag_news_Dataset.csv
+
 │── README.md
+
 │── requirements.txt
 
 --- 
